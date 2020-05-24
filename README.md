@@ -1,4 +1,4 @@
 # my-first-github-repository
 my first github repository,Lets get started
 
-README.md file is edited.this file was modified locally.
+This file is modified to remove merge conflict resolution.
